@@ -1,5 +1,7 @@
 # Tasca M2 T01
 
+Exercicis d'estructures de dades amb Python.
+
 ### Exercici 1
 ***
 Crea una llista que agrupi els mesos de l’any en trimestres (1T: gener, febrer i març; 2T: abril, maig, juny...), és a dir, una llista amb 4 llistes dins.
