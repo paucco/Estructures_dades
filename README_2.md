@@ -1,5 +1,7 @@
 # Tasca M2 T02
 
+Exercicis d'estructures de control amb Python.
+
 ### Exercici 1
 ***
 L'exercici consisteix a crear una funció que et classifiqui una variable numèrica en funció de l’escala Suspès/Aprovat/Notable/Excel·lent.
@@ -11,7 +13,7 @@ Recorda que Suspès < 5, Aprovat > 5 i < 7, Notable > 7 i < 9 i Excel·lent > 9.
 ***
 Utilitzant el següent tutorial crea una funció que et pregunti dos números. T’ha de mostrar un missatge dient si el primer és més gran, el segon és més gran o són iguals.
 
--> Programiz: Python Input, Output and Import
+[Programiz: Python Input, Output and Import](https://www.programiz.com/python-programming/input-output-import)
 
 
 
